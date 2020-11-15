@@ -1,0 +1,13 @@
+# Project things
+INSTRUCTIONS.md
+
+# NPM things
+node_modules
+package-lock.json
+.npm 
+
+# VS Code things
+.vscode
+
+# MacOS things
+.DS_Store
